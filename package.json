@@ -10,5 +10,9 @@
     "roaming"
   ],
   "author": "luics",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "debug": "^2.6.3",
+    "request": "^2.81.0"
+  }
 }
